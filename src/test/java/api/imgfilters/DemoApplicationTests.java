@@ -1,4 +1,4 @@
-package com.example.demo;
+package api.imgfilters;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
